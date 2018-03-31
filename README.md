@@ -6,7 +6,7 @@ by Marc Jones, written for Python 3.6+
 #### Genre Classification with Support Vector Machines
 lorem ipsum
 
-####Acoustic Brainz Duplicates Analysis
+#### Acoustic Brainz Duplicates Analysis
 [AcousticBrainz (AB)](https://acousticbrainz.org) is an open source database that houses extracted music information data for over [3 million (!!)](https://acousticbrainz.org/statistics-graph) songs. AB does not store the analyzed audio files on its servers due to the vastness of the its library and the copyright complications associated with doing so. Therefore AB relies on a community of enthusiasts to contribute to their database while not having direct access to analyzed audio. Considering that every community members music library is likely to have some overlapping similarities, each song can have many duplicate submissions on the AB database. This program looks over those duplicates to try and identify candidates for having been mislabeled.
 
 #### Comparative BPM Algorithm Analysis
