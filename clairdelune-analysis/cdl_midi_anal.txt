@@ -1,0 +1,12 @@
+debussy_clairdelune.musicxml is in the key of: C# major
+
+Most Common Chords:
+[('unison', 387), ('interval class 3', 61), ('major triad', 50), ('interval class 5', 49), ('interval class 4', 48), ('minor triad', 34), ('interval class 2', 30), ('minor seventh chord', 16), ('incomplete dominant-seventh chord', 14), ('dominant seventh chord', 12), ('quartal tetramirror', 10)]
+Key of Measures Counted:
+Counter({<music21.key.Key of C# major>: 21, <music21.key.Key of e- minor>: 18, <music21.key.Key of b- minor>: 9, <music21.key.Key of F# major>: 7, <music21.key.Key of A- major>: 5, <music21.key.Key of c# minor>: 4, <music21.key.Key of f# minor>: 4, <music21.key.Key of B major>: 2, <music21.key.Key of E- major>: 1, <music21.key.Key of f minor>: 1})
+
+Modulations Tracked:
+[('e- minor to e- minor', 8), ('C# major to C# major', 8), ('F# major to e- minor', 4), ('b- minor to A- major', 3), ('e- minor to C# major', 3), ('C# major to F# major', 3), ('F# major to C# major', 3), ('C# major to b- minor', 3), ('e- minor to F# major', 3), ('b- minor to b- minor', 3)]
+
+The last note played:<music21.note.Note D->
+D- major
